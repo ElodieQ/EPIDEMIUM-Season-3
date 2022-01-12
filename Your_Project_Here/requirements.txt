@@ -1,0 +1,17 @@
+bagnets @ git+https://github.com/wielandbrendel/bag-of-local-features-models.git@8493fb442c9b9ccfeaa970c950ca67832017f072
+lightgbm
+mlflow
+numpy
+opencv-python
+optuna
+pandas
+Pillow
+pytorch-lightning
+scikit-image
+scikit-learn
+scipy
+torch==1.8.1+cu111
+torchaudio
+torchvision==0.9.1+cu111
+tqdm
+xgboost
